@@ -15,6 +15,6 @@ I am also working actively in expanding my current skillset.
 
 #### Feel Free to reach me 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](maazkarim02@gmail.com)
-[<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_MaazKarim_)
+[<img alt="Twitter" src="https://img.shields.io/badge/<_MaazKarim_>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_MaazKarim_)
 
 
