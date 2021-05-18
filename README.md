@@ -13,6 +13,6 @@ Also I know <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?
 I am also working actively in expanding my current skillset.
 
 #### Feel Free to reach me 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />(maazkarim02@gmail.com) 
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](maazkarim02@gmail.com) 
 
 
