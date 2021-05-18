@@ -4,7 +4,7 @@
 <br>
     <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
     
-## I am Maaz Karim 
+## I'm Interested in many things
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
@@ -13,6 +13,11 @@
 - 📫 How to reach me **maazkarim02@gmail.com**
 
 - ⚡ **I love watching animes!!**
+
+- :innocent: **I am trying to improve myself day by day** 
+
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en" alt="cyber-machine" /></p>
 
