@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maaz Karim</h1>
-<h3 align="center">A.I. M.L. enthusiastic</h3>
+<h3 align="center">A.I.&M.L. enthusiastic</h3>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
