@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Maaz Karim</h1>
-<h3 align="center">A.I.&M.L. enthusiastic</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
+
+## I am Maaz Karim 
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
@@ -7,7 +10,7 @@
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
-- ⚡ **I am an Otaku!!**
+- ⚡ **I love watching animes!!**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en" alt="cyber-machine" /></p>
 
@@ -16,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[<img alt="Twitter" src="https://img.shields.io/badge/_MaazKarim_-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_MaazKarim_)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maaz-karim-902046196/)   <a href="https://codeforces.com/profile/_eyepatch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_eyepatch" height="60" width="60" /></a>
+[<img alt="Twitter" src="https://img.shields.io/badge/_MaazKarim_-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_MaazKarim_)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maaz-karim-902046196/)   <a href="https://codeforces.com/profile/_eyepatch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_eyepatch" height="45" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
