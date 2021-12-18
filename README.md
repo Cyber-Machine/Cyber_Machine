@@ -27,10 +27,10 @@
 <h2 align="center">Connect with me:</h2>
 
 
-<p align="center">
+<div diplay="flex" justify-content=space-between align="center" >
     
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_MaazKarim_) [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maaz-karim-902046196/)    
-</p>
+[<img src="https://img.icons8.com/ultraviolet/40/000000/twitter-circled--v3.png"/>](https://twitter.com/_MaazKarim_) [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/maaz-karim-902046196/)    
+</div>
 <br>
 <h2 align="center">Languages and Tools:</h2>
 
