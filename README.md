@@ -36,7 +36,7 @@
 
 <div display="flex" justify-content=space-between align="center" >
     
-[<img src="https://img.icons8.com/ultraviolet/40/000000/twitter-circled--v3.png"/>](https://twitter.com/_MaazKarim_)         [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/maaz-karim-902046196/)    
+[<img src="https://img.icons8.com/ultraviolet/40/000000/twitter-circled--v3.png"/>](https://twitter.com/_MaazKarim_)            [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/maaz-karim-902046196/)    
 </div>
 
  
