@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
-- ⚡ **I love watching animes & learning new things!!**
+- ⚡ **I love watching animes & learn new things!!**
 
-- :innocent: **I am trying to be better than yesterday** 
+- :innocent: **I am trying to be better than yesterday!** 
 
 <br>
 <br>
