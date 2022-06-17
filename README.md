@@ -4,7 +4,7 @@
 <br>
     
 <h1 align = "center"> I'm Interested in many things </h1>
-<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"> -->
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
 
 - 🌱 I’m currently learning **Accelerated Deep Learning & CUDA Programming**
 
@@ -22,7 +22,8 @@
 
 ![Maaz Karim](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=graywhite#gh-light-mode-only)
 
-![Maaz Karim](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark#gh-dark-mode-only)
+    
+<!-- ![Maaz Karim](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark#gh-dark-mode-only) -->
 
  </div>
 
