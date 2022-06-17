@@ -2,13 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 <br>
-<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"> -->
     
 <h1 align = "center"> I'm Interested in many things </h1>
+<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"> -->
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Accelerated Deep Learning & CUDA Programming**
 
-- 💬 Ask me about **Java ,Python**
+- 💬 Ask me about **Data Science & Machine Learning**
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
@@ -18,8 +18,13 @@
 
 <br>
 <br>
+<div align="center">
 
-<p align ='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en" alt="cyber-machine" /></p>
+![Maaz Karim](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=graywhite#gh-light-mode-only)
+
+![Maaz Karim](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark#gh-dark-mode-only)
+
+ </div>
 
 <br>
 <br>
