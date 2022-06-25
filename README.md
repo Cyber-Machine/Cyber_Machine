@@ -1,10 +1,15 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
-<br>
-    
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://rishavanand.github.io/static/images/greetings.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif">
+  <img alt="Hello!" align="center" width ="100%">
+</picture>
+
 <h1 align = "center"> I'm Interested in many things </h1>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+  <img alt="Hello!" align="right" width="300">
+</picture>
 
 - 🌱 I’m currently learning **CUDA Programming**
 
@@ -22,10 +27,12 @@
 <br>
 <div align="center">
 
-![Maaz-Karim-Light](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=graywhite#gh-light-mode-only)
-<!--     
-![Maaz-Karim-Dark](https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark#gh-dark-mode-only)
- -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=graywhite">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark">
+  <img alt="Hello!" align="center" src = "https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en">
+</picture>
+
  </div>
 
 <br>
