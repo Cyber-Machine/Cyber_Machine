@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://rishavanand.github.io/static/images/greetings.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif">
-  <img alt="Hello!" align="center" width ="100%" height="600">
+  <img alt="Hello!" align="center" src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width ="100%" height="600">
 </picture>
 
 <h1 align = "center"> I'm Interested in many things </h1>
