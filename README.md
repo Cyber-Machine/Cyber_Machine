@@ -11,13 +11,13 @@
   <img alt="Hello!" align="right" width="300">
 </picture>
 
-- 🌱 I’m currently learning **CUDA Programming**
+- 🌱 I’m currently learning **CUDA Programming** & **Reinforcement Learning**
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
-- ⚡ **I love watching animes & learn new things!!**
+- ⚡ **I love learning new things!!**
 
 - :innocent: **I am trying to be better than yesterday!** 
 
