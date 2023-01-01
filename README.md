@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **CUDA Programming** & **Reinforcement Learning**
 
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me about **Deep Learning**
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
@@ -25,6 +25,7 @@
 <br>
 <br>
 <br>
+
 <div align="center">
 
 <picture>
@@ -47,16 +48,8 @@
 <h2 align="center">Languages and Tools:</h2>
     
  <p align="center">
-<!--   <a href="https://github.com/Cyber-Machine">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts&theme=light" />
-  </a> -->
   <a href="https://github.com/Cyber-Machine">
-  <picture>
-    
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts&theme=light">
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts"> -->
-  <img alt="Skills" src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts">
-</picture>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts" />
   </a>
 </p>
 
@@ -66,8 +59,18 @@
 
 
 <div display="flex" justify-content=space-between flex-wrap = wrap gap = 12px align="center" >
+   <a href="https://twitter.com/_MaazKarim_">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+   </a>
+   <a href="https://www.linkedin.com/in/maazkarim-0312/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>
   
-[<img src="https://img.icons8.com/ultraviolet/40/000000/twitter-circled--v3.png"/>](https://twitter.com/_MaazKarim_)            [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/maaz-karim-902046196/)           [<img src="https://img.icons8.com/ios-glyphs/48/null/github.png"/>](https://github.com/Cyber-Machine)
+   <a href="https://github.com/Cyber-Machine/Cyber-Machine">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github">
+        <img alt="Github" src="https://skillicons.dev/icons?i=github">
+    </picture>
+   </a>
 </div>
-
- 
