@@ -48,7 +48,7 @@
     
  <p align="center">
   <a href="https://github.com/Cyber-Machine">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,java,kotlin,linux,markdown,mongodb,mysql,nodejs,tailwind,tensorflow,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts" />
   </a>
 </p>
 <br>
