@@ -47,10 +47,20 @@
 <h2 align="center">Languages and Tools:</h2>
     
  <p align="center">
+<!--   <a href="https://github.com/Cyber-Machine">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts&theme=light" />
+  </a> -->
   <a href="https://github.com/Cyber-Machine">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts" />
+  <picture>
+    
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts&theme=light">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts"> -->
+  <img alt="Skills" src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,tailwind,tensorflow,ts">
+</picture>
   </a>
 </p>
+
+
 <br>
 <h2 align="center">Connect with me:</h2>
 
