@@ -32,25 +32,32 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark">
   <img alt="Hello!" align="center" src = "https://github-readme-stats.vercel.app/api?username=cyber-machine&show_icons=true&locale=en">
 </picture>
-
+  
+  <picture>
+    
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyber-machine&layout=compact&locale=en&theme=graywhite">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyber-machine&layout=compact&theme=dark">
+  <img alt="Hello!" align="center" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyber-machine&layout=compact">
+</picture>
  </div>
-
 <br>
 <br>
 
 
 <h2 align="center">Languages and Tools:</h2>
-
-<div style=" display: flex; justify-content: space-between;">
-<p align="center"> <img src="https://img.icons8.com/color/56/000000/java-coffee-cup-logo--v2.png"/><img src="https://img.icons8.com/color/56/000000/python--v2.png"/> <img src="https://img.icons8.com/color/56/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/dusk/56/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/56/000000/css3.png"/><img src="https://img.icons8.com/color/100/000000/javascript--v2.png"/ height="56px"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="48px"> <img src="https://img.icons8.com/color/56/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></p>
-    </div>
+    
+ <p align="center">
+  <a href="https://github.com/Cyber-Machine">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,github,githubactions,java,kotlin,linux,markdown,mongodb,mysql,nodejs,tailwind,tensorflow,ts" />
+  </a>
+</p>
 <br>
 <h2 align="center">Connect with me:</h2>
 
 
-<div display="flex" justify-content=space-between align="center" >
-    
-[<img src="https://img.icons8.com/ultraviolet/40/000000/twitter-circled--v3.png"/>](https://twitter.com/_MaazKarim_)            [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/maaz-karim-902046196/)    
+<div display="flex" justify-content=space-between flex-wrap = wrap gap = 12px align="center" >
+  
+[<img src="https://img.icons8.com/ultraviolet/40/000000/twitter-circled--v3.png"/>](https://twitter.com/_MaazKarim_)            [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>](https://www.linkedin.com/in/maaz-karim-902046196/)           [<img src="https://img.icons8.com/ios-glyphs/48/null/github.png"/>](https://github.com/Cyber-Machine)
 </div>
 
  
