@@ -11,9 +11,9 @@
   <img alt="Hello!" align="right" width="300">
 </picture>
 
-- 🌱 I’m currently learning **CUDA Programming** & **Reinforcement Learning**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
-- 💬 Ask me about **Deep Learning**
+- 💬 Ask me about **Deep Learning & NLP**
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
@@ -49,7 +49,7 @@
     
  <p align="center">
   <a href="https://github.com/Cyber-Machine">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,d3,docker,fastapi,firebase,flask,gatsby,gcp,git,githubactions,html,java,js,kotlin,latex,linux,md,mongodb,mysql,nodejs,py,r,react,redux,tailwind,tensorflow,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,d3,docker,fastapi,firebase,flask,gatsby,gcp,git,githubactions,html,java,js,latex,linux,md,mongodb,mysql,nodejs,py,pytorch,r,react,redux,tailwind,tensorflow,ts" />
   </a>
 </p>
 
