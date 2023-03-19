@@ -49,7 +49,7 @@
     
  <p align="center">
   <a href="https://github.com/Cyber-Machine">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,d3,docker,fastapi,firebase,flask,gatsby,gcp,git,githubactions,html,java,js,latex,linux,md,mongodb,mysql,nodejs,py,pytorch,r,react,redux,tailwind,tensorflow,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,fastapi,firebase,flask,gatsby,gcp,git,githubactions,html,java,js,latex,linux,md,mongodb,mysql,nodejs,postgres,py,pytorch,r,react,redux,tailwind,tensorflow,ts" />
   </a>
 </p>
 
