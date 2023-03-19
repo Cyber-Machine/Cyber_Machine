@@ -29,9 +29,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ruby-one.vercel.appp/api?username=cyber-machine&show_icons=true&locale=en&theme=graywhite">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ruby-one.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark">
-  <img alt="Hello!" align="center" src = "https://github-readme-stats-ruby-one.vercel.app/api?username=cyber-machine&show_icons=true&locale=en">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-cyan-36.vercel.appp/api?username=cyber-machine&show_icons=true&locale=en&theme=graywhite">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-cyan-36.vercel.app/api?username=cyber-machine&show_icons=true&locale=en&theme=github_dark">
+  <img alt="Hello!" align="center" src = "https://github-readme-stats-mu-cyan-36.vercel.app/api?username=cyber-machine&show_icons=true&locale=en">
 </picture>
   
   <picture>
