@@ -11,7 +11,7 @@
   <img alt="Hello!" align="right" width="300">
 </picture>
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Machine Learning Systems**
 
 - 💬 Ask me about **Deep Learning & NLP**
 
