@@ -49,7 +49,11 @@
     
  <p align="center">
   <a href="https://github.com/Cyber-Machine">
-    <img src="https://skillicons.dev/icons?i=aws,bash,django,docker,fastapi,firebase,flask,gcp,git,githubactions,latex,linux,md,mongodb,mysql,nodejs,postgres,py,pytorch,react,redux,tailwind,tensorflow,ts" />
+       <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,bash,django,docker,fastapi,firebase,flask,gcp,git,githubactions,latex,linux,md,mongodb,mysql,nodejs,postgres,py,pytorch,react,redux,tailwind,tensorflow,ts&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,bash,django,docker,fastapi,firebase,flask,gcp,git,githubactions,latex,linux,md,mongodb,mysql,nodejs,postgres,py,pytorch,react,redux,tailwind,tensorflow,ts">
+        <img alt="tech-stack: Python, Fastapi, Docker" src="https://skillicons.dev/icons?i=aws,bash,django,docker,fastapi,firebase,flask,gcp,git,githubactions,latex,linux,md,mongodb,mysql,nodejs,postgres,py,pytorch,react,redux,tailwind,tensorflow,ts">
+    </picture>
   </a>
 </p>
 
