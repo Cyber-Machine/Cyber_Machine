@@ -6,7 +6,7 @@
 
 <h1 align = "center"> I'm Interested in many things </h1>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/6vIk.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
   <img alt="Coding!" align="right" width="300">
 </picture>
