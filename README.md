@@ -1,14 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://rishavanand.github.io/static/images/greetings.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/43324599d7bcfc81697e05d4165fd955/tumblr_mlzb45Igi11qkvaajo1_r1_500.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif">
   <img alt="Hello!" align="center" src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width ="100%" height="600">
 </picture>
 
 <h1 align = "center"> I'm Interested in many things </h1>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/SsQa.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-  <img alt="Hello!" align="right" width="300">
+  <img alt="Coding!" align="right" width="300">
 </picture>
 
 - 🌱 I’m currently learning **Machine Learning Systems**
