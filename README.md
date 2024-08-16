@@ -11,9 +11,9 @@
   <img alt="Coding!" align="right" width="300">
 </picture>
 
-- 🌱 I’m currently learning **Machine Learning Systems**
+- 🌱 I’m currently learning **Machine Learning Systems & CV**
 
-- 💬 Ask me about **Deep Learning & NLP**
+- 💬 Ask me about **NLP & Computer Vision**
 
 - 📫 How to reach me **maazkarim02@gmail.com**
 
